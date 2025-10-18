@@ -3,8 +3,8 @@ Object Oriented Mini Project on Supply Chain
 
 ### Project worked with 3 member 
 
-SupplyChain
-|- main.py
+SupplyChain </br>
+|- main.py </br>
 |- supply.py
 
 
